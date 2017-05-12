@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HockeyAppPoc", "HockeyAppPoc\HockeyAppPoc.csproj", "{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookAnalyticsPoc", "FacebookAnalyticsPoc\FacebookAnalyticsPoc.csproj", "{5BEC277F-C821-40ED-821D-D6E209376EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GooglePlayAnalyticsPoc", "GooglePlayAnalyticsPoc\GooglePlayAnalyticsPoc.csproj", "{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F2E94AD-0B98-49E3-9DF6-2A3A810A3955}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5BEC277F-C821-40ED-821D-D6E209376EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEC277F-C821-40ED-821D-D6E209376EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEC277F-C821-40ED-821D-D6E209376EB3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5BEC277F-C821-40ED-821D-D6E209376EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEC277F-C821-40ED-821D-D6E209376EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEC277F-C821-40ED-821D-D6E209376EB3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65D1B893-EF02-42CF-9AFD-91C2D77B10D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
